@@ -5,7 +5,7 @@ const DashboardPage = () => (
   <section>
     <h1>Dashboard</h1>
     <p>This is the dashboard.</p>
-
+    <p>Simple text change</p>
     <Link to='/posts' className='button'>
       View Posts
     </Link>
